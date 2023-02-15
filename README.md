@@ -1,6 +1,4 @@
-<p align="center">
 # ECART
-</p>
 
 <p align="center">
 ECART repository
