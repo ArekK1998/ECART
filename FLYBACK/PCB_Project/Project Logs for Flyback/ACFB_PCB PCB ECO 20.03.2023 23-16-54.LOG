@@ -1,0 +1,34 @@
+Added Component: Designator=TP1(Test point)
+Added Component: Designator=TP2(Test point)
+Added Component: Designator=TP3(Test point)
+Added Component: Designator=TP4(Test point)
+Added Component: Designator=TP5(Test point)
+Added Component: Designator=TP6(Test point)
+Added Component: Designator=TP7(Test point)
+Added Component: Designator=TP8(Test point)
+Added Component: Designator=TP9(Test point)
+Added Component: Designator=TP10(Test point)
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Net: Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_20 Pin=IC1-20
+Added Net: Name=NetIC1_20
+Added Member To Class: ClassName=main Member=Component TP1 Test point
+Added Member To Class: ClassName=main Member=Component TP2 Test point
+Added Member To Class: ClassName=main Member=Component TP3 Test point
+Added Member To Class: ClassName=main Member=Component TP4 Test point
+Added Member To Class: ClassName=main Member=Component TP5 Test point
+Added Member To Class: ClassName=in_out Member=Component TP6 Test point
+Added Member To Class: ClassName=in_out Member=Component TP7 Test point
+Added Member To Class: ClassName=in_out Member=Component TP8 Test point
+Added Member To Class: ClassName=in_out Member=Component TP9 Test point
+Added Member To Class: ClassName=in_out Member=Component TP10 Test point
+Added Room: Name=in_out
+Added Room: Name=main

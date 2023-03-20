@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=\S\D\/OD Pin=R22-2
+Removed Pin From Net: NetName=HIN Pin=R23-2
+Removed Pin From Net: NetName=LIN Pin=R24-2
+Added Component: Designator=R25(Resistor_0805)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R26(Resistor_0805)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R27(Resistor_0805)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=\S\D\/OD Pin=R25-1
+Added Pin To Net: NetName=HIN Pin=R26-1
+Added Pin To Net: NetName=LIN Pin=R27-1
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP11-1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=R25-2
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=R26-2
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=R27-2
+Added Net: Name=NetR24_2
+Added Member To Class: ClassName=in_out Member=Component R25 0
+Added Member To Class: ClassName=in_out Member=Component R26 0
+Added Member To Class: ClassName=in_out Member=Component R27 0
+Added Room: Name=in_out
+Added Room: Name=main
