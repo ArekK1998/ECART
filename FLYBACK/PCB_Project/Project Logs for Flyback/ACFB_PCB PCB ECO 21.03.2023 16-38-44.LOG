@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VOUT Pin=C8-1
+Removed Pin From Net: NetName=GND_OUT Pin=C8-2
+Removed Pin From Net: NetName=VOUT Pin=C9-1
+Removed Pin From Net: NetName=GND_OUT Pin=C9-2
+Removed Member From Class: ClassName=main Member=C8
+Removed Member From Class: ClassName=main Member=C9
+Change Component Footprint: Designator=C7 Old Footprint=Capacitor_Electrolytic New Footprint=Capacitor_Electrolytic_Vib_Res
+Change Component Comment : Designator=C7 Old Comment=330uF New Comment=2200uF
+Change component parameters: Designator = "C7" ("C7"); Footprint = "Capacitor_Electrolytic"; UniqueID = "\YHYQLJGR" ("\YHYQLJGR")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2200uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "UCZ1V222MNS1MS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Room: Name=in_out
+Added Room: Name=main
