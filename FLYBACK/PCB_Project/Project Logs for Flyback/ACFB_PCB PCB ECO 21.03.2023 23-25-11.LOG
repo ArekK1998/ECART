@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=NetIC1_4 Pin=R5-2
+Added Room: Name=in_out
+Added Room: Name=main
