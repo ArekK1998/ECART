@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VIN Pin=J2-1
+Removed Pin From Net: NetName=VIN Pin=J2-2
+Removed Pin From Net: NetName=VIN Pin=R9-2
+Change Component Comment : Designator=C7 Old Comment=2200uF New Comment=2700uF
+Change component parameters: Designator = "C7" ("C7"); Footprint = "Capacitor_Electrolytic_Vib_Res"; UniqueID = "\YHYQLJGR" ("\YHYQLJGR")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2700uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "UCZ1V222MNS1MS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=J2-1
+Added Pin To Net: NetName=NetC3_2 Pin=J2-2
+Added Pin To Net: NetName=NetC3_2 Pin=R9-2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=VIN
+Change Net Name : Old Net Name=VIN New Net Name=NetC3_1
+Added Room: Name=in_out
+Added Room: Name=main
