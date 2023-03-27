@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C4 Old Footprint=Capacitor_Electrolytic New Footprint=CAPPRD500W60D1300H2700
+Change Component Comment : Designator=C4 Old Comment=10uF New Comment=*
+Change component parameters: Designator = "C4" ("C4"); Footprint = "Capacitor_Electrolytic"; UniqueID = "\EYCLKGDA" ("\EYCLKGDA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MH2(Mounting_Hole_M3)
+Added Member To Class: ClassName=in_out Member=Component MH2 Mounting_Hole_M3
+Added Room: Name=in_out
+Added Room: Name=main
