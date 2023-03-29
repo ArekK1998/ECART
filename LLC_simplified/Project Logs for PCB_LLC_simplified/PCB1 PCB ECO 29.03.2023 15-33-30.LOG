@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=DVS2 Pin=Q1-2
+Removed Pin From Net: NetName=DVS1 Pin=Q2-2
+Added Component: Designator=NT?(Net tie)
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L_GND Pin=NT?-1
+Added Pin To Net: NetName=PWR_GND Pin=NT?-2
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Added Member To Class: ClassName=Sheet3 Member=Component NT? *

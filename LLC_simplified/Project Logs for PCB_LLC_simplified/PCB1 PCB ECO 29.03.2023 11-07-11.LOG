@@ -1,0 +1,661 @@
+Added Component: Designator=C1(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPPRD500W60D1300H2700)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPPRD500W60D1300H2700)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Capacitor_1812)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(Capacitor_1812)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(Capacitor_0805)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(Capacitor_0805)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(Capacitor_1812)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C19(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(Capacitor_Electrolytic_Vib_Res)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(Capacitor_Electrolytic_Vib_Res)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C22(Capacitor_0805)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C23(Capacitor_1812)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C24(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(Capacitor_1812)
+Add component (AddParameter): Name = "Capacitance"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C26(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C28(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C29(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C34(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C36(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C38(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=C39(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SRK2001A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/srk2001a/stmicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SRK2001A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SRK2001A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-SRK2001A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SRK2001A?qs=aVyJF2WnouTzNJDK1aOmdg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(MASTERGAN1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MASTERGAN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mastergan1/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/389/mastergan1-1893186.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MASTERGAN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-MASTERGAN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MASTERGAN1?qs=hWgE7mdIu5TUQlvSzk235A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(1289STR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/215/Keystone_Electronics_12182018_1289-ST-1510776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1289-STR?qs=0lSvoLzn4L%252BMUIbPVNHg8g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(1289STR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/215/Keystone_Electronics_12182018_1289-ST-1510776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1289-STR?qs=0lSvoLzn4L%252BMUIbPVNHg8g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(1289STR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/215/Keystone_Electronics_12182018_1289-ST-1510776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1289-STR?qs=0lSvoLzn4L%252BMUIbPVNHg8g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4(1420701301)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/142-0701-301/cinch-connectivity-solutions?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2ec9b041f970d014d2778887508fd87c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.779mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Cinch Connectivity Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "530-142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-301?qs=VqHsQWpF6un5h9kBF%252BTxDw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(1420701301)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/142-0701-301/cinch-connectivity-solutions?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2ec9b041f970d014d2778887508fd87c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.779mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Cinch Connectivity Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "530-142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-301?qs=VqHsQWpF6un5h9kBF%252BTxDw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(1420701301)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/142-0701-301/cinch-connectivity-solutions?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2ec9b041f970d014d2778887508fd87c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.779mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Cinch Connectivity Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "530-142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-301?qs=VqHsQWpF6un5h9kBF%252BTxDw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(1289STR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/215/Keystone_Electronics_12182018_1289-ST-1510776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1289-STR?qs=0lSvoLzn4L%252BMUIbPVNHg8g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J8(1289STR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/215/Keystone_Electronics_12182018_1289-ST-1510776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1289-STR?qs=0lSvoLzn4L%252BMUIbPVNHg8g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J9(1420701301)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/142-0701-301/cinch-connectivity-solutions?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2ec9b041f970d014d2778887508fd87c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.779mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Cinch Connectivity Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "530-142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-301?qs=VqHsQWpF6un5h9kBF%252BTxDw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(1289STR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/215/Keystone_Electronics_12182018_1289-ST-1510776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1289-STR?qs=0lSvoLzn4L%252BMUIbPVNHg8g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J11(1289STR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/215/Keystone_Electronics_12182018_1289-ST-1510776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "534-1289-STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1289-STR?qs=0lSvoLzn4L%252BMUIbPVNHg8g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J12(1420701301)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/142-0701-301/cinch-connectivity-solutions?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2ec9b041f970d014d2778887508fd87c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.779mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Cinch Connectivity Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "530-142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-301?qs=VqHsQWpF6un5h9kBF%252BTxDw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(FP-IHLP-4040ED-FP_3_175x4-MFG)
+Added Component: Designator=MH1(Mounting_Hole_M2.5)
+Added Component: Designator=MH2(Mounting_Hole_M2.5)
+Added Component: Designator=MH3(Mounting_Hole_M2.5)
+Added Component: Designator=MH4(Mounting_Hole_M2.5)
+Added Component: Designator=NT1(Net tie)
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=NT2(Net tie)
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(STD95N4F3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STD95N4F3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/std95n4f3/stmicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/std95n4f3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STD95N4F3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STD95N4F3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STD95N4F3?qs=Djavi1aLnwoepdJqDxyf1g%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(STD95N4F3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STD95N4F3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/std95n4f3/stmicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/std95n4f3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STD95N4F3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STD95N4F3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STD95N4F3?qs=Djavi1aLnwoepdJqDxyf1g%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R11(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R13(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R15(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R17(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=T1(MTPL2516S24V)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MTPL-2516-S24V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.51mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MTPL-2516-S24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "70-MTPL-2516-S24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/MTPL-2516-S24V?qs=wd5RIQLrsJgVmtJW6evrjA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=+5V Pin=J1-2
+Added Pin To Net: NetName=+5V Pin=R7-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=DVS1 Pin=R16-1
+Added Pin To Net: NetName=DVS1 Pin=T1-11
+Added Pin To Net: NetName=DVS1 Pin=T1-12
+Added Net: Name=DVS1
+Added Pin To Net: NetName=DVS2 Pin=R17-2
+Added Pin To Net: NetName=DVS2 Pin=T1-7
+Added Pin To Net: NetName=DVS2 Pin=T1-8
+Added Net: Name=DVS2
+Added Pin To Net: NetName=GD1 Pin=D1-3
+Added Pin To Net: NetName=GD1 Pin=Q1-1
+Added Net: Name=GD1
+Added Pin To Net: NetName=GD2 Pin=D1-8
+Added Pin To Net: NetName=GD2 Pin=Q2-1
+Added Net: Name=GD2
+Added Pin To Net: NetName=GH Pin=IC1-20
+Added Pin To Net: NetName=GH Pin=R5-2
+Added Net: Name=GH
+Added Pin To Net: NetName=GL Pin=IC1-2
+Added Pin To Net: NetName=GL Pin=R10-2
+Added Net: Name=GL
+Added Pin To Net: NetName=GND_CTRL Pin=C38-2
+Added Pin To Net: NetName=GND_CTRL Pin=D1-2
+Added Pin To Net: NetName=GND_CTRL Pin=NT1-2
+Added Net: Name=GND_CTRL
+Added Pin To Net: NetName=L_GND Pin=C34-2
+Added Pin To Net: NetName=L_GND Pin=C35-2
+Added Pin To Net: NetName=L_GND Pin=C36-2
+Added Pin To Net: NetName=L_GND Pin=C37-2
+Added Pin To Net: NetName=L_GND Pin=C39-2
+Added Pin To Net: NetName=L_GND Pin=IC1-28
+Added Pin To Net: NetName=L_GND Pin=IC1-MP1
+Added Pin To Net: NetName=L_GND Pin=J4-2
+Added Pin To Net: NetName=L_GND Pin=J4-3
+Added Pin To Net: NetName=L_GND Pin=J4-4
+Added Pin To Net: NetName=L_GND Pin=J4-5
+Added Pin To Net: NetName=L_GND Pin=J5-2
+Added Pin To Net: NetName=L_GND Pin=J5-3
+Added Pin To Net: NetName=L_GND Pin=J5-4
+Added Pin To Net: NetName=L_GND Pin=J5-5
+Added Pin To Net: NetName=L_GND Pin=J6-2
+Added Pin To Net: NetName=L_GND Pin=J6-3
+Added Pin To Net: NetName=L_GND Pin=J6-4
+Added Pin To Net: NetName=L_GND Pin=J6-5
+Added Pin To Net: NetName=L_GND Pin=J9-2
+Added Pin To Net: NetName=L_GND Pin=J9-3
+Added Pin To Net: NetName=L_GND Pin=J9-4
+Added Pin To Net: NetName=L_GND Pin=J9-5
+Added Pin To Net: NetName=L_GND Pin=J12-2
+Added Pin To Net: NetName=L_GND Pin=J12-3
+Added Pin To Net: NetName=L_GND Pin=J12-4
+Added Pin To Net: NetName=L_GND Pin=J12-5
+Added Net: Name=L_GND
+Added Pin To Net: NetName=L_IN_T1 Pin=IC1-26
+Added Pin To Net: NetName=L_IN_T1 Pin=R12-2
+Added Net: Name=L_IN_T1
+Added Pin To Net: NetName=L_IN_T2 Pin=IC1-24
+Added Pin To Net: NetName=L_IN_T2 Pin=R14-2
+Added Net: Name=L_IN_T2
+Added Pin To Net: NetName=LINE Pin=C3-1
+Added Pin To Net: NetName=LINE Pin=C4-1
+Added Pin To Net: NetName=LINE Pin=C5-2
+Added Pin To Net: NetName=LINE Pin=C6-2
+Added Pin To Net: NetName=LINE Pin=C7-2
+Added Pin To Net: NetName=LINE Pin=C8-2
+Added Pin To Net: NetName=LINE Pin=C9-2
+Added Pin To Net: NetName=LINE Pin=C10-2
+Added Pin To Net: NetName=LINE Pin=C11-2
+Added Pin To Net: NetName=LINE Pin=C12-2
+Added Pin To Net: NetName=LINE Pin=C13-2
+Added Pin To Net: NetName=LINE Pin=C14-2
+Added Pin To Net: NetName=LINE Pin=C15-2
+Added Pin To Net: NetName=LINE Pin=C16-2
+Added Pin To Net: NetName=LINE Pin=C17-2
+Added Pin To Net: NetName=LINE Pin=IC1-15
+Added Pin To Net: NetName=LINE Pin=IC1-16
+Added Pin To Net: NetName=LINE Pin=IC1-17
+Added Pin To Net: NetName=LINE Pin=IC1-18
+Added Pin To Net: NetName=LINE Pin=IC1-19
+Added Pin To Net: NetName=LINE Pin=J7-1
+Added Pin To Net: NetName=LINE Pin=J7-2
+Added Net: Name=LINE
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-22
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-21
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=C12-1
+Added Pin To Net: NetName=NetC11_1 Pin=C13-1
+Added Pin To Net: NetName=NetC11_1 Pin=C14-1
+Added Pin To Net: NetName=NetC11_1 Pin=C15-1
+Added Pin To Net: NetName=NetC11_1 Pin=C16-1
+Added Pin To Net: NetName=NetC11_1 Pin=C17-1
+Added Pin To Net: NetName=NetC11_1 Pin=L1-2
+Added Pin To Net: NetName=NetC11_1 Pin=T1-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=C33-1
+Added Pin To Net: NetName=NetC25_2 Pin=IC1-1
+Added Pin To Net: NetName=NetC25_2 Pin=R2-2
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=C27-1
+Added Pin To Net: NetName=NetC26_1 Pin=C28-1
+Added Pin To Net: NetName=NetC26_1 Pin=C29-1
+Added Pin To Net: NetName=NetC26_1 Pin=C30-1
+Added Pin To Net: NetName=NetC26_1 Pin=C31-1
+Added Pin To Net: NetName=NetC26_1 Pin=C32-1
+Added Pin To Net: NetName=NetC26_1 Pin=R3-2
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=C27-2
+Added Pin To Net: NetName=NetC26_2 Pin=C28-2
+Added Pin To Net: NetName=NetC26_2 Pin=C29-2
+Added Pin To Net: NetName=NetC26_2 Pin=C30-2
+Added Pin To Net: NetName=NetC26_2 Pin=C31-2
+Added Pin To Net: NetName=NetC26_2 Pin=C32-2
+Added Pin To Net: NetName=NetC26_2 Pin=T1-5
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=J4-1
+Added Pin To Net: NetName=NetC34_1 Pin=R6-1
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=J5-1
+Added Pin To Net: NetName=NetC35_1 Pin=R7-1
+Added Pin To Net: NetName=NetC35_1 Pin=R9-1
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=J6-1
+Added Pin To Net: NetName=NetC36_1 Pin=R11-1
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=J9-1
+Added Pin To Net: NetName=NetC37_1 Pin=R13-1
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=J12-1
+Added Pin To Net: NetName=NetC39_1 Pin=R15-1
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=NetD1_5 Pin=D1-5
+Added Pin To Net: NetName=NetD1_5 Pin=R16-2
+Added Net: Name=NetD1_5
+Added Pin To Net: NetName=NetD1_6 Pin=D1-6
+Added Pin To Net: NetName=NetD1_6 Pin=R17-1
+Added Net: Name=NetD1_6
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-9
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-10
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-11
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-MP2
+Added Pin To Net: NetName=NetIC1_4 Pin=R3-1
+Added Pin To Net: NetName=NetIC1_4 Pin=R4-2
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-13
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-14
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-MP3
+Added Pin To Net: NetName=NetIC1_12 Pin=L1-1
+Added Net: Name=NetIC1_12
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-23
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-29
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-30
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-31
+Added Net: Name=NetIC1_23
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R9-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-2
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=R13-2
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=R15-2
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetT1_3 Pin=T1-3
+Added Pin To Net: NetName=NetT1_3 Pin=T1-4
+Added Net: Name=NetT1_3
+Added Pin To Net: NetName=O_GND Pin=C20-2
+Added Pin To Net: NetName=O_GND Pin=C21-2
+Added Pin To Net: NetName=O_GND Pin=C22-1
+Added Pin To Net: NetName=O_GND Pin=C23-1
+Added Pin To Net: NetName=O_GND Pin=C24-1
+Added Pin To Net: NetName=O_GND Pin=J3-1
+Added Pin To Net: NetName=O_GND Pin=J3-2
+Added Pin To Net: NetName=O_GND Pin=T1-9
+Added Pin To Net: NetName=O_GND Pin=T1-10
+Added Net: Name=O_GND
+Added Pin To Net: NetName=O_U Pin=J2-1
+Added Pin To Net: NetName=O_U Pin=J2-2
+Added Pin To Net: NetName=O_U Pin=R1-2
+Added Net: Name=O_U
+Added Pin To Net: NetName=PVCC Pin=C18-1
+Added Pin To Net: NetName=PVCC Pin=C19-1
+Added Pin To Net: NetName=PVCC Pin=C38-1
+Added Pin To Net: NetName=PVCC Pin=D1-1
+Added Pin To Net: NetName=PVCC Pin=IC1-27
+Added Pin To Net: NetName=PVCC Pin=J8-1
+Added Pin To Net: NetName=PVCC Pin=J8-2
+Added Pin To Net: NetName=PVCC Pin=R2-1
+Added Net: Name=PVCC
+Added Pin To Net: NetName=PWR_GND Pin=C3-2
+Added Pin To Net: NetName=PWR_GND Pin=C4-2
+Added Pin To Net: NetName=PWR_GND Pin=C5-1
+Added Pin To Net: NetName=PWR_GND Pin=C6-1
+Added Pin To Net: NetName=PWR_GND Pin=C7-1
+Added Pin To Net: NetName=PWR_GND Pin=C8-1
+Added Pin To Net: NetName=PWR_GND Pin=C9-1
+Added Pin To Net: NetName=PWR_GND Pin=C10-1
+Added Pin To Net: NetName=PWR_GND Pin=J10-1
+Added Pin To Net: NetName=PWR_GND Pin=J10-2
+Added Pin To Net: NetName=PWR_GND Pin=NT1-1
+Added Pin To Net: NetName=PWR_GND Pin=NT2-1
+Added Pin To Net: NetName=PWR_GND Pin=R4-1
+Added Net: Name=PWR_GND
+Added Pin To Net: NetName=SD/OD Pin=IC1-25
+Added Pin To Net: NetName=SD/OD Pin=R8-2
+Added Net: Name=SD/OD
+Added Pin To Net: NetName=SVS1 Pin=C20-1
+Added Pin To Net: NetName=SVS1 Pin=C21-1
+Added Pin To Net: NetName=SVS1 Pin=C22-2
+Added Pin To Net: NetName=SVS1 Pin=C23-2
+Added Pin To Net: NetName=SVS1 Pin=C24-2
+Added Pin To Net: NetName=SVS1 Pin=D1-4
+Added Pin To Net: NetName=SVS1 Pin=D1-7
+Added Pin To Net: NetName=SVS1 Pin=Q1-3
+Added Pin To Net: NetName=SVS1 Pin=Q2-3
+Added Pin To Net: NetName=SVS1 Pin=R1-1
+Added Net: Name=SVS1
+Added Pin To Net: NetName=Vcc_GND Pin=C18-2
+Added Pin To Net: NetName=Vcc_GND Pin=C19-2
+Added Pin To Net: NetName=Vcc_GND Pin=C25-1
+Added Pin To Net: NetName=Vcc_GND Pin=C33-2
+Added Pin To Net: NetName=Vcc_GND Pin=IC1-3
+Added Pin To Net: NetName=Vcc_GND Pin=J11-1
+Added Pin To Net: NetName=Vcc_GND Pin=J11-2
+Added Pin To Net: NetName=Vcc_GND Pin=NT2-2
+Added Net: Name=Vcc_GND
+Added Class: Name=Sheet3
