@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PWR_GND Pin=NT1-1
+Removed Pin From Net: NetName=DVS2 Pin=Q1-2
+Removed Pin From Net: NetName=DVS1 Pin=Q2-2
+Added Pin To Net: NetName=Vcc_GND Pin=C38-2
+Added Pin To Net: NetName=Vcc_GND Pin=D1-2
+Added Pin To Net: NetName=L_GND Pin=NT1-1
+Added Pin To Net: NetName=PWR_GND Pin=NT1-2
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q2-4
