@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=L_GND Pin=C34-2
+Removed Pin From Net: NetName=L_GND Pin=C35-2
+Removed Pin From Net: NetName=L_GND Pin=C36-2
+Removed Pin From Net: NetName=L_GND Pin=J4-2
+Removed Pin From Net: NetName=L_GND Pin=J4-3
+Removed Pin From Net: NetName=L_GND Pin=J4-4
+Removed Pin From Net: NetName=L_GND Pin=J4-5
+Removed Pin From Net: NetName=L_GND Pin=J5-2
+Removed Pin From Net: NetName=L_GND Pin=J5-3
+Removed Pin From Net: NetName=L_GND Pin=J5-4
+Removed Pin From Net: NetName=L_GND Pin=J5-5
+Removed Pin From Net: NetName=L_GND Pin=J6-2
+Removed Pin From Net: NetName=L_GND Pin=J6-3
+Removed Pin From Net: NetName=L_GND Pin=J6-4
+Removed Pin From Net: NetName=L_GND Pin=J6-5
+Removed Pin From Net: NetName=DVS1 Pin=Q1-2
+Removed Pin From Net: NetName=DVS2 Pin=Q2-2
+Removed Pin From Net: NetName=SD/OD Pin=R8-2
+Removed Member From Class: ClassName=Sheet3 Member=C37
+Removed Member From Class: ClassName=Sheet3 Member=C38
+Removed Member From Class: ClassName=Sheet3 Member=C39
+Removed Member From Class: ClassName=Sheet3 Member=J9
+Removed Member From Class: ClassName=Sheet3 Member=J10
+Removed Member From Class: ClassName=Sheet3 Member=J11
+Removed Member From Class: ClassName=Sheet3 Member=J12
+Removed Member From Class: ClassName=Sheet3 Member=R11
+Removed Member From Class: ClassName=Sheet3 Member=R12
+Removed Member From Class: ClassName=Sheet3 Member=R13
+Removed Member From Class: ClassName=Sheet3 Member=R14
+Removed Member From Class: ClassName=Sheet3 Member=R15
+Removed Member From Class: ClassName=Sheet3 Member=R16
+Removed Member From Class: ClassName=Sheet3 Member=R17
+Change Component Designator: OldDesignator=C37 NewDesignator=C34
+Change Component Designator: OldDesignator=C38 NewDesignator=C35
+Change Component Designator: OldDesignator=C39 NewDesignator=C36
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J7 NewDesignator=J3
+Change Component Designator: OldDesignator=J8 NewDesignator=J4
+Change Component Designator: OldDesignator=J9 NewDesignator=J5
+Change Component Designator: OldDesignator=J10 NewDesignator=J6
+Change Component Designator: OldDesignator=J11 NewDesignator=J7
+Change Component Designator: OldDesignator=J12 NewDesignator=J8
+Change Component Designator: OldDesignator=R12 NewDesignator=R5
+Change Component Designator: OldDesignator=R13 NewDesignator=R6
+Change Component Designator: OldDesignator=R14 NewDesignator=R7
+Change Component Designator: OldDesignator=R15 NewDesignator=R8
+Change Component Designator: OldDesignator=R16 NewDesignator=R9
+Change Component Designator: OldDesignator=R17 NewDesignator=R10
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC34_1
+Change Net Name : Old Net Name=NetC39_1 New Net Name=NetC36_1
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR7_1
