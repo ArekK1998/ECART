@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=PVCC Pin=C40-1
+Removed Pin From Net: NetName=Vcc_GND Pin=C40-2
+Change Component Footprint: Designator=C40 Old Footprint=Capcitor_1206 New Footprint=Capacitor_0805
+Change Component Comment : Designator=C40 Old Comment=4.7u New Comment=*
+Change component parameters: Designator = "C40" ("C40"); Footprint = "Capcitor_1206"; UniqueID = "\PDHDXWIL" ("\PDHDXWIL")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc_GND Pin=C40-1
+Added Pin To Net: NetName=PVCC Pin=C40-2
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Added Member To Class: ClassName=Sheet3 Member=Component C23 *
+Added Member To Class: ClassName=Sheet3 Member=Component C25 *
+Added Member To Class: ClassName=Sheet3 Member=Component C26 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C27 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C28 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C30 10u
+Added Member To Class: ClassName=Sheet3 Member=Component C32 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C34 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C36 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C38 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C40 *

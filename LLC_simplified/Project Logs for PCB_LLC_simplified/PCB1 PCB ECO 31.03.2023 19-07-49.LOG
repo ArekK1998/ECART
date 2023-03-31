@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DVS1 Pin=Q1-2
+Removed Pin From Net: NetName=DVS2 Pin=Q2-2
+Change Component Footprint: Designator=MH1 Old Footprint=Mounting_Hole_M2.5 New Footprint=Mounting_Hole_M3
+Change Component Footprint: Designator=MH2 Old Footprint=Mounting_Hole_M2.5 New Footprint=Mounting_Hole_M3
+Change Component Footprint: Designator=MH3 Old Footprint=Mounting_Hole_M2.5 New Footprint=Mounting_Hole_M3
+Change Component Footprint: Designator=MH4 Old Footprint=Mounting_Hole_M2.5 New Footprint=Mounting_Hole_M3
+Change Component Comment : Designator=MH1 Old Comment=Mounting_Hole_M2.5 New Comment=Mounting_Hole_M3
+Change Component Comment : Designator=MH2 Old Comment=Mounting_Hole_M2.5 New Comment=Mounting_Hole_M3
+Change Component Comment : Designator=MH3 Old Comment=Mounting_Hole_M2.5 New Comment=Mounting_Hole_M3
+Change Component Comment : Designator=MH4 Old Comment=Mounting_Hole_M2.5 New Comment=Mounting_Hole_M3
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q2-4

@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=DVS1 Pin=Q1-2
+Removed Pin From Net: NetName=DVS2 Pin=Q2-2
+Change Component Designator: OldDesignator=C23 NewDesignator=C24
+Change Component Designator: OldDesignator=C24 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C27
+Change Component Designator: OldDesignator=C26 NewDesignator=C28
+Change Component Designator: OldDesignator=C27 NewDesignator=C29
+Change Component Designator: OldDesignator=C28 NewDesignator=C30
+Change Component Designator: OldDesignator=C29 NewDesignator=C31
+Change Component Designator: OldDesignator=C30 NewDesignator=C32
+Change Component Designator: OldDesignator=C31 NewDesignator=C33
+Change Component Designator: OldDesignator=C32 NewDesignator=C34
+Change Component Designator: OldDesignator=C33 NewDesignator=C35
+Change Component Designator: OldDesignator=C34 NewDesignator=C36
+Change Component Designator: OldDesignator=C35 NewDesignator=C37
+Change Component Designator: OldDesignator=C36 NewDesignator=C38
+Added Component: Designator=C23(Capacitor_0805)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C26(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "620p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=O_GND Pin=C23-1
+Added Pin To Net: NetName=SVS1 Pin=C23-2
+Added Pin To Net: NetName=O_GND Pin=C26-1
+Added Pin To Net: NetName=SVS1 Pin=C26-2
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Change Net Name : Old Net Name=NetC25_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC34_1 New Net Name=NetC36_1
+Change Net Name : Old Net Name=NetC36_1 New Net Name=NetC38_1
+Added Member To Class: ClassName=Sheet3 Member=Component C34 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C35 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C36 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C37 4.7u
+Added Member To Class: ClassName=Sheet3 Member=Component C38 100n
+Added Member To Class: ClassName=Sheet3 Member=Component J1 1289-STR
+Added Member To Class: ClassName=Sheet3 Member=Component J2 1289-STR
+Added Member To Class: ClassName=Sheet3 Member=Component J4 1289-STR
+Added Member To Class: ClassName=Sheet3 Member=Component J5 142-0701-301
+Added Member To Class: ClassName=Sheet3 Member=Component J6 1289-STR
+Added Member To Class: ClassName=Sheet3 Member=Component J7 1289-STR
+Added Member To Class: ClassName=Sheet3 Member=Component J8 142-0701-301
+Added Member To Class: ClassName=Sheet3 Member=Component R5 0
+Added Member To Class: ClassName=Sheet3 Member=Component R6 4.7k
+Added Member To Class: ClassName=Sheet3 Member=Component R7 0
+Added Member To Class: ClassName=Sheet3 Member=Component R8 4.7k
+Added Member To Class: ClassName=Sheet3 Member=Component R9 100
+Added Member To Class: ClassName=Sheet3 Member=Component R10 100

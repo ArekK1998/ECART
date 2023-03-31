@@ -1,0 +1,45 @@
+Change Component Designator: OldDesignator=C23 NewDesignator=C24
+Change Component Designator: OldDesignator=C24 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=C26 NewDesignator=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C28
+Change Component Designator: OldDesignator=C28 NewDesignator=C29
+Change Component Designator: OldDesignator=C29 NewDesignator=C30
+Change Component Designator: OldDesignator=C30 NewDesignator=C31
+Change Component Designator: OldDesignator=C31 NewDesignator=C32
+Change Component Designator: OldDesignator=C32 NewDesignator=C33
+Change Component Designator: OldDesignator=C33 NewDesignator=C34
+Change Component Designator: OldDesignator=C34 NewDesignator=C35
+Change Component Designator: OldDesignator=C35 NewDesignator=C36
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C37 NewDesignator=C38
+Change Component Designator: OldDesignator=C38 NewDesignator=C39
+Change Component Designator: OldDesignator=C39 NewDesignator=C40
+Change Component Designator: OldDesignator=C40 NewDesignator=C41
+Added Component: Designator=C23(Capacitor_0805)
+Add component (AddParameter): Name = "Capacitance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=O_GND Pin=C23-1
+Added Pin To Net: NetName=SVS1 Pin=C23-2
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Change Net Name : Old Net Name=NetC29_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetC30_1 New Net Name=NetC31_1
+Change Net Name : Old Net Name=NetC30_2 New Net Name=NetC31_2
+Change Net Name : Old Net Name=NetC38_1 New Net Name=NetC39_1
+Change Net Name : Old Net Name=NetC40_1 New Net Name=NetC41_1
+Added Member To Class: ClassName=Sheet3 Member=Component C25 *
+Added Member To Class: ClassName=Sheet3 Member=Component C26 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C28 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C29 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C30 10u
+Added Member To Class: ClassName=Sheet3 Member=Component C31 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C32 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C33 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C34 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C35 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C36 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C37 620p
+Added Member To Class: ClassName=Sheet3 Member=Component C38 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C41 100n
