@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=main Member=C36
+Removed Member From Class: ClassName=main Member=C37
+Removed Member From Class: ClassName=main Member=C38
+Added Component: Designator=R23(Resistor_1206)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "300k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=R23-1
+Added Pin To Net: NetName=VIN Pin=R23-2
+Added Member To Class: ClassName=main Member=Component C5 47nF
+Added Member To Class: ClassName=main Member=Component C6 47nF
+Added Member To Class: ClassName=main Member=Component C7 100nF
+Added Member To Class: ClassName=main Member=Component C8 100nF
+Added Member To Class: ClassName=main Member=Component C9 220nF
+Added Member To Class: ClassName=main Member=Component C10 220nF
+Added Member To Class: ClassName=main Member=Component C11 2700uF
+Added Member To Class: ClassName=main Member=Component C12 10uF
+Added Member To Class: ClassName=main Member=Component C13 0.1uF
+Added Member To Class: ClassName=main Member=Component C14 100nF
+Added Member To Class: ClassName=main Member=Component C15 100nF
+Added Member To Class: ClassName=main Member=Component C16 100nF
+Added Member To Class: ClassName=main Member=Component C17 2.2uF
+Added Member To Class: ClassName=main Member=Component C18 2.2uF
+Added Member To Class: ClassName=main Member=Component C19 2.2uF
+Added Member To Class: ClassName=main Member=Component C20 2.2uF
+Added Member To Class: ClassName=main Member=Component C22 1uF
+Added Member To Class: ClassName=main Member=Component C23 10uF
+Added Member To Class: ClassName=main Member=Component C24 100nF
+Added Member To Class: ClassName=main Member=Component C25 2.2uF
+Added Member To Class: ClassName=main Member=Component C26 2.2uF
+Added Member To Class: ClassName=main Member=Component C27 2.2uF
+Added Member To Class: ClassName=main Member=Component C29 2.2uF
+Added Member To Class: ClassName=main Member=Component C30 100nF
+Added Member To Class: ClassName=in_out Member=Component R21 4k7
+Added Member To Class: ClassName=in_out Member=Component R22 4k7
+Added Member To Class: ClassName=main Member=Component R23 300k
+Added Room: Name=in_out
+Added Room: Name=main

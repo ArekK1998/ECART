@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetR2_2 Pin=Q1-5
+Added Pin To Net: NetName=NetR2_2 Pin=Q1-6
+Added Pin To Net: NetName=NetR2_2 Pin=Q1-7
+Added Pin To Net: NetName=NetR2_2 Pin=Q1-8
+Added Pin To Net: NetName=NetR2_2 Pin=Q1-9
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetQ1_5
