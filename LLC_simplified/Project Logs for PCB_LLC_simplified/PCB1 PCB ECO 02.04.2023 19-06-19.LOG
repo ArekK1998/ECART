@@ -1,0 +1,19 @@
+Added Component: Designator=J8(1420701301)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/142-0701-301/cinch-connectivity-solutions?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2ec9b041f970d014d2778887508fd87c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.779mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Cinch Connectivity Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "530-142-0701-301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/142-0701-301?qs=VqHsQWpF6un5h9kBF%252BTxDw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC41_1 Pin=J8-1
+Added Pin To Net: NetName=L_GND Pin=J8-2
+Added Pin To Net: NetName=L_GND Pin=J8-3
+Added Pin To Net: NetName=L_GND Pin=J8-4
+Added Pin To Net: NetName=L_GND Pin=J8-5
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Added Member To Class: ClassName=Sheet3 Member=Component J8 142-0701-301
