@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C8 Old Footprint=Capcitor_1206 New Footprint=TDKB58031
+Change Component Comment: Designator=C8 Old Comment==Capacitance New Comment=1u
+Change Pin Designator/Name:  Old Designator=C8-1 Old Name= New Designator = New Name=2
+Change Pin Designator/Name:  Old Designator=C8-2 Old Name= New Designator = New Name=1
