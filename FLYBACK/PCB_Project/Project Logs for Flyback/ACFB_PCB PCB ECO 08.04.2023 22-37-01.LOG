@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=VIN Pin=C9_1-1
+Removed Pin From Net: NetName=GND Pin=C9_1-2
+Removed Pin From Net: NetName=VIN Pin=C9_1_1-1
+Removed Pin From Net: NetName=GND Pin=C9_1_1-2
+Removed Pin From Net: NetName=VIN Pin=C9_2-1
+Removed Pin From Net: NetName=GND Pin=C9_2-2
+Removed Pin From Net: NetName=GND Pin=C10_1-1
+Removed Pin From Net: NetName=VIN Pin=C10_1-2
+Removed Pin From Net: NetName=GND Pin=C10_1_1-1
+Removed Pin From Net: NetName=VIN Pin=C10_1_1-2
+Removed Pin From Net: NetName=GND Pin=C10_2-1
+Removed Pin From Net: NetName=VIN Pin=C10_2-2
+Removed Pin From Net: NetName=VOUT Pin=C11-1
+Removed Pin From Net: NetName=GND_OUT Pin=C11-2
+Removed Pin From Net: NetName=GND_OUT Pin=C14-1
+Removed Pin From Net: NetName=VOUT Pin=C14-2
+Removed Member From Class: ClassName=main Member=C14
+Removed Member From Class: ClassName=main Member=C15
+Removed Member From Class: ClassName=main Member=C16
+Removed Member From Class: ClassName=main Member=C17
+Removed Member From Class: ClassName=main Member=C18
+Removed Member From Class: ClassName=main Member=C19
+Removed Member From Class: ClassName=main Member=C20
+Removed Member From Class: ClassName=main Member=R1
+Change Component Footprint: Designator=C14 Old Footprint=Capacitor_0805 New Footprint=Capacitor_Electrolytic_Vib_Res
+Change Component Footprint: Designator=C11 Old Footprint=Capacitor_Electrolytic_Vib_Res New Footprint=Capacitor_1812
+Change Component Footprint: Designator=C17 Old Footprint=Capcitor_1206 New Footprint=Capacitor_0805
+Change Component Footprint: Designator=C7 Old Footprint=Capcitor_1206 New Footprint=Capacitor_1812
+Change Component Comment : Designator=C17 Old Comment=2.2uF New Comment=100nF
+Change Component Comment : Designator=C7 Old Comment=100nF New Comment=220nF
+Change Component Comment : Designator=C14 Old Comment=100nF New Comment=2700uF
+Change Component Comment : Designator=C11 Old Comment=2700uF New Comment=220nF
+Change component parameters: Designator = "C7" ("C7"); Footprint = "Capcitor_1206"; UniqueID = "\XQBCIHQS" ("\XQBCIHQS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "C1812C224MCRACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "500"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "TDKB58031"; UniqueID = "\RNWKLVYU" ("\RNWKLVYU")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "1206B104K451CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "450V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "Capacitor_Electrolytic_Vib_Res"; UniqueID = "\IEUVLMCD" ("\IEUVLMCD")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "C1812C224MCRACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "500"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "Capacitor_0805"; UniqueID = "\PNFUBKTZ" ("\PNFUBKTZ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2700uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "UCZ1V222MNS1MS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "Capcitor_1206"; UniqueID = "\CNWFDFWZ" ("\CNWFDFWZ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL21B104KBCNNND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Capacitor_1812)
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "C1812C224MCRACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Capacitor_1812)
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "C1812C224MCRACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=C39(Capcitor_1206)
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CL31B225KBHNFNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VIN Pin=C5-2
+Added Pin To Net: NetName=VIN Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VIN Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VOUT Pin=C14-1
+Added Pin To Net: NetName=GND_OUT Pin=C14-2
+Added Pin To Net: NetName=GND_OUT Pin=C39-1
+Added Pin To Net: NetName=VOUT Pin=C39-2
+Added Member To Class: ClassName=main Member=Component C5 220nF
+Added Member To Class: ClassName=main Member=Component C6 220nF
+Added Member To Class: ClassName=main Member=Component C8 1u
+Added Member To Class: ClassName=in_out Member=Component C14 2700uF
+Added Member To Class: ClassName=in_out Member=Component C15 100nF
+Added Member To Class: ClassName=in_out Member=Component C16 100nF
+Added Member To Class: ClassName=in_out Member=Component C17 100nF
+Added Member To Class: ClassName=in_out Member=Component C18 2.2uF
+Added Member To Class: ClassName=in_out Member=Component C19 2.2uF
+Added Member To Class: ClassName=in_out Member=Component C20 2.2uF
+Added Member To Class: ClassName=in_out Member=Component C39 2.2uF
+Added Member To Class: ClassName=in_out Member=Component R1 10k
+Added Member To Class: ClassName=main Member=Component R4 R680

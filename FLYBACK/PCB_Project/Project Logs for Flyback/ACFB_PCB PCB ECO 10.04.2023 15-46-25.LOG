@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VIN Pin=C5-2
+Added Pin To Net: NetName=VIN Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND_OUT Pin=C39-1
+Added Pin To Net: NetName=VOUT Pin=C39-2
+Added Member To Class: ClassName=main Member=Component C5 220nF
+Added Member To Class: ClassName=main Member=Component C6 220nF
+Added Member To Class: ClassName=in_out Member=Component C39 2.2uF
