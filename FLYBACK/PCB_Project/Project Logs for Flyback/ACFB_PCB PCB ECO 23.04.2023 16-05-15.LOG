@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=HIN Pin=R21-2
+Removed Pin From Net: NetName=NetJ8_1 Pin=R23-1
+Removed Pin From Net: NetName=LIN Pin=R23-2
+Change Component Footprint: Designator=R21 Old Footprint=Resistor_1206 New Footprint=Resistor_0805
+Change Component Comment : Designator=R21 Old Comment=51 New Comment=510
+Change component parameters: Designator = "R21" ("R21"); Footprint = "Resistor_1206"; UniqueID = "\JDJAAQCQ" ("\JDJAAQCQ")
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "510"; VariantName = "[No Variations]"
+Added Component: Designator=R25(Resistor_0805)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "510"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SGND Pin=J5-1
+Added Pin To Net: NetName=HIN Pin=R21-1
+Added Pin To Net: NetName=SGND Pin=R21-2
+Added Pin To Net: NetName=LIN Pin=R25-1
+Added Pin To Net: NetName=NetJ8_1 Pin=R25-2
+Added Member To Class: ClassName=in_out Member=Component R25 510
